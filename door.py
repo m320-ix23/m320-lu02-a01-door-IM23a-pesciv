@@ -122,9 +122,15 @@ class DoorLock:
         print("ein Schloss erzeugt")
 
     def lock(self):
+        """
+        lok
+        """
         return True
 
     def unlock(self):
+        """
+        not lok
+        """
         return False
 
 
